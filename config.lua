@@ -3,7 +3,7 @@ cfg = {
     esxLegacy = true,
 
     job = {
-        ['job'] = "ryby"
+        ['job'] = "fish"
     },
 
     blip = {
