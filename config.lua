@@ -46,9 +46,7 @@ cfg = {
         ['price'] = 100
     },
 
-    breakchance = {
-        ['break'] = 50
-    },
+
 
     items = {
         ['rod'] = "rod",
