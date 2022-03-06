@@ -227,7 +227,7 @@ AddEventHandler('fishing:start', function()
                             ClearPedTasks(playerPed)
                         else
                             local breakChance = math.random(1,100)
-                            if breakChance < cfg.breakrodchange['chance'] then
+                            if breakChance < cfg.breakrodchance['chance'] then
                                 Notify(cfg.translation['rodbroke'])
                                 TriggerServerEvent("fish:break")  
                                 fishing = false
