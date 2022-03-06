@@ -57,7 +57,7 @@ cfg = {
         ['fish2'] = "fish2",
     },
 
-    breakrodchange = {
+    breakrodchance = {
         ['chance'] = 10
     }
 }
